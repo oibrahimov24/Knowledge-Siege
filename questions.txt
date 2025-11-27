@@ -1,0 +1,30 @@
+SL|What is an array in Java and how is it declared?
+SL|What is inheritance in Java?
+SL|What is the difference between compile-time and runtime polymorphism?
+SL|What is the difference between an ArrayList and a LinkedList?
+SL|What is the difference between checked and unchecked exceptions?
+SL|What classes are commonly used for file reading in Java?
+SL|What is the difference between String and StringBuilder?
+SL|What is a class in programming?
+SL|What is the purpose of generics in Java?
+SL|What does the . (dot) mean in regular expressions?
+TA|What happens if you access an invalid index in Array?
+TA|What is the difference between extends and implements in Java?
+TA|How does Java decide which overridden method to call at runtime?
+TA|How does a HashSet ensure uniqueness of elements?
+TA|What is the purpose of the finally block?
+TA|What is the difference between Formatter and Scanner?
+TA|Why are strings immutable in Java?
+TA|How can you use regex to extract email addresses from a text?
+TA|What is the difference between List<?>, List<Object>, and List<T>?
+TA|How to create a custom exception?
+PROF|How can you efficiently search for an element in a rotated sorted array?
+PROF|How does the Java memory model handle inheritance in terms of method overriding and object layout?
+PROF|How does polymorphism work internally in the JVM?
+PROF|How does Java's HashMap handle collisions?
+PROF|How do greedy and lazy quantifiers work in regex?
+PROF|How can you read and write binary files in Java?
+PROF|How does Java handle string interning and what are its benefits?
+PROF|What is Big-O notation?
+PROF|What is a lambda expression in Java?
+PROF|How does Java implement generics using type erasure?

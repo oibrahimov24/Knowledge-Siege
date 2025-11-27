@@ -1,0 +1,23 @@
+[2025-05-29 01:36:12] Proceeded to level 1
+[2025-05-29 01:36:12] New GamePanel created for user: Maqa
+[2025-05-29 01:36:12] Game started
+[2025-05-29 01:36:20] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-29 01:36:21] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-29 01:36:23] Got info: Loops repeat code until a condition, Points: 10
+[2025-05-29 01:36:30] Got info: Loops repeat code until a condition, Points: 10
+[2025-05-29 01:36:31] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-29 01:36:31] Proceeded to level 2
+[2025-05-29 01:36:35] Got info: Polymorphism enables flexible code, Points: 20
+[2025-05-29 01:36:41] Got info: Exceptions handle runtime errors, Points: 20
+[2025-05-29 01:36:46] Got info: Encapsulation hides data details, Points: 20
+[2025-05-29 01:36:48] Got info: ArrayList is backed by a dynamic array, while LinkedList is a doubly-linked list; ArrayList is better for random access, Points: 10
+[2025-05-29 01:36:51] Got info: Stacks follow last-in, first-out, Points: 20
+[2025-05-29 01:36:56] Got info: Interfaces define method contracts, Points: 20
+[2025-05-29 01:36:56] Proceeded to level 3
+[2025-05-29 01:37:01] Got info: Deadlocks halt thread execution, Points: 30
+[2025-05-29 01:37:01] Got info: Hash tables provide fast lookup, Points: 30
+[2025-05-29 01:37:02] Got info: HashMap handles collisions using chaining, where multiple entries can go in one bucket, Points: 30
+[2025-05-29 01:37:05] Got info: Java interns strings in a pool. Identical string literals reference the same object to save memory and improve performance, Points: 30
+[2025-05-29 01:37:05] Got info: Static methods belong to classes, Points: 20
+[2025-05-29 01:37:08] Got info: Interfaces define method contracts, Points: 20
+[2025-05-29 01:37:08] Game won, Score: 160

@@ -1,0 +1,33 @@
+[2025-05-29 01:37:22] Proceeded to level 1
+[2025-05-29 01:37:22] New GamePanel created for user: Omar
+[2025-05-29 01:37:22] Game started
+[2025-05-29 01:37:36] Got info: Loops repeat code until a condition, Points: 10
+[2025-05-29 01:37:37] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-29 01:37:44] Got info: Strings hold text data, Points: 10
+[2025-05-29 01:37:45] Got info: ArrayList is backed by a dynamic array, while LinkedList is a doubly-linked list; ArrayList is better for random access, Points: 10
+[2025-05-29 01:37:47] Got info: Strings hold text data, Points: 10
+[2025-05-29 01:37:47] Proceeded to level 2
+[2025-05-29 01:37:54] Got question: How does a HashSet ensure uniqueness of elements?, Damage: 10
+[2025-05-29 01:37:55] Got question: What is the difference between List<?>, List<Object>, and List<T>?, Damage: 10
+[2025-05-29 01:37:56] Got question: What is the difference between extends and implements in Java?, Damage: 10
+[2025-05-29 01:37:57] Got question: What happens if you access an invalid index in Array?, Damage: 10
+[2025-05-29 01:37:58] Got question: What is an array in Java and how is it declared?, Damage: 5
+[2025-05-29 01:37:58] Got question: What is the difference between an ArrayList and a LinkedList?, Damage: 5
+[2025-05-29 01:37:59] Got question: What is an array in Java and how is it declared?, Damage: 5
+[2025-05-29 01:38:00] Got question: How does a HashSet ensure uniqueness of elements?, Damage: 10
+[2025-05-29 01:38:01] Got question: What is the difference between List<?>, List<Object>, and List<T>?, Damage: 10
+[2025-05-29 01:38:02] Got info: OOP organizes code with objects, Points: 20
+[2025-05-29 01:38:02] Got question: How can you use regex to extract email addresses from a text?, Damage: 10
+[2025-05-29 01:38:03] Got question: Why are strings immutable in Java?, Damage: 10
+[2025-05-29 01:38:03] Got question: How can you use regex to extract email addresses from a text?, Damage: 10
+[2025-05-29 01:38:03] Game lost, Score: 20
+[2025-05-30 09:24:02] Proceeded to level 1
+[2025-05-30 09:24:02] New GamePanel created for user: Omar
+[2025-05-30 09:24:02] Game started
+[2025-05-30 10:01:55] Proceeded to level 1
+[2025-05-30 10:01:55] New GamePanel created for user: Omar
+[2025-05-30 10:01:55] Game started
+[2025-05-30 10:02:23] Got question: What is a class in programming?, Damage: 5
+[2025-05-30 10:02:29] Got question: What is inheritance in Java?, Damage: 5
+[2025-05-30 10:02:29] Got info: Loops repeat code until a condition, Points: 10
+[2025-05-30 10:02:32] Got info: Methods group reusable code, Points: 10

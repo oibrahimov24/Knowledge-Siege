@@ -1,0 +1,65 @@
+[2025-05-30 09:53:45] Proceeded to level 1
+[2025-05-30 09:53:45] New GamePanel created for user: Ekin
+[2025-05-30 09:53:45] Game started
+[2025-05-30 09:53:57] Got info: Strings hold text data, Points: 10
+[2025-05-30 09:54:00] Got question: What does the . (dot) mean in regular expressions?, Damage: 5
+[2025-05-30 09:54:00] Got question: What is inheritance in Java?, Damage: 5
+[2025-05-30 09:54:04] Got info: Loops repeat code until a condition, Points: 10
+[2025-05-30 09:54:05] Got info: Compile-time polymorphism is method overloading; runtime polymorphism is method overriding, Points: 10
+[2025-05-30 09:54:11] Got info: Compiling converts code to executable, Points: 10
+[2025-05-30 09:54:12] Got info: Compiling converts code to executable, Points: 10
+[2025-05-30 09:54:12] Proceeded to level 2
+[2025-05-30 09:54:18] Got info: Compiling converts code to executable, Points: 10
+[2025-05-30 09:54:19] Got info: Strings hold text data, Points: 10
+[2025-05-30 09:54:21] Got info: Arrays store multiple values, Points: 10
+[2025-05-30 09:54:21] Got question: What does the . (dot) mean in regular expressions?, Damage: 5
+[2025-05-30 09:54:21] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-30 09:54:23] Got info: Compile-time polymorphism is method overloading; runtime polymorphism is method overriding, Points: 10
+[2025-05-30 09:54:26] Got info: The finally block always executes after try/catch, even if there is a return or an exception is thrown, Points: 20
+[2025-05-30 09:54:27] Got info: Booleans represent true or false, Points: 10
+[2025-05-30 09:54:29] Got question: What happens if you access an invalid index in Array?, Damage: 10
+[2025-05-30 09:54:30] Got question: What is inheritance in Java?, Damage: 5
+[2025-05-30 09:54:30] Got question: How does a HashSet ensure uniqueness of elements?, Damage: 10
+[2025-05-30 09:54:33] Got question: How can you use regex to extract email addresses from a text?, Damage: 10
+[2025-05-30 09:54:36] Got question: Why are strings immutable in Java?, Damage: 10
+[2025-05-30 09:54:41] Got question: What is the difference between List<?>, List<Object>, and List<T>?, Damage: 10
+[2025-05-30 09:54:45] Got question: How does a HashSet ensure uniqueness of elements?, Damage: 10
+[2025-05-30 09:54:47] Got question: Why are strings immutable in Java?, Damage: 10
+[2025-05-30 09:54:48] Got question: What is the difference between an ArrayList and a LinkedList?, Damage: 5
+[2025-05-30 09:54:48] Got question: What does the . (dot) mean in regular expressions?, Damage: 5
+[2025-05-30 09:54:50] Got question: What is the difference between extends and implements in Java?, Damage: 10
+[2025-05-30 09:54:50] Game lost, Score: 80
+[2025-05-30 09:55:10] Proceeded to level 1
+[2025-05-30 09:55:10] New GamePanel created for user: Ekin
+[2025-05-30 09:55:10] Game started
+[2025-05-30 09:55:16] Got question: What is the difference between String and StringBuilder?, Damage: 5
+[2025-05-30 09:55:16] Got info: Variables store data in memory, Points: 10
+[2025-05-30 09:55:18] Got info: Booleans represent true or false, Points: 10
+[2025-05-30 09:55:21] Got info: Debugging finds and fixes errors, Points: 10
+[2025-05-30 09:55:27] Got info: ArrayList is backed by a dynamic array, while LinkedList is a doubly-linked list; ArrayList is better for random access, Points: 10
+[2025-05-30 09:55:28] Got info: Compile-time polymorphism is method overloading; runtime polymorphism is method overriding, Points: 10
+[2025-05-30 09:55:28] Proceeded to level 2
+[2025-05-30 09:55:36] Got info: ArrayList is backed by a dynamic array, while LinkedList is a doubly-linked list; ArrayList is better for random access, Points: 10
+[2025-05-30 09:55:38] Got info: Encapsulation hides data details, Points: 20
+[2025-05-30 09:55:41] Got info: Arrays store multiple values, Points: 10
+[2025-05-30 09:55:42] Got info: Static methods belong to classes, Points: 20
+[2025-05-30 09:55:42] Got info: Constructors initialize objects, Points: 20
+[2025-05-30 09:55:42] Got info: OOP organizes code with objects, Points: 20
+[2025-05-30 09:55:42] Proceeded to level 3
+[2025-05-30 09:55:47] Got info: Constructors initialize objects, Points: 20
+[2025-05-30 09:55:47] Got info: Dynamic programming optimizes code, Points: 30
+[2025-05-30 09:55:49] Got info: The finally block always executes after try/catch, even if there is a return or an exception is thrown, Points: 20
+[2025-05-30 09:55:50] Got question: How to create a custom exception?, Damage: 10
+[2025-05-30 09:55:50] Got question: What happens if you access an invalid index in Array?, Damage: 10
+[2025-05-30 09:55:51] Got info: Exceptions handle runtime errors, Points: 20
+[2025-05-30 09:55:52] Got info: Internally, the JVM uses virtual method tables (v-tables) for method dispatch during runtime polymorphism, Points: 30
+[2025-05-30 09:55:53] Got info: Java interns strings in a pool. Identical string literals reference the same object to save memory and improve performance, Points: 30
+[2025-05-30 09:55:53] Game won, Score: 150
+[2025-05-30 09:58:27] Proceeded to level 1
+[2025-05-30 09:58:27] New GamePanel created for user: Ekin
+[2025-05-30 09:58:27] Game started
+[2025-05-30 09:58:34] Got question: What does the . (dot) mean in regular expressions?, Damage: 5
+[2025-05-30 09:58:34] Got question: What is the difference between compile-time and runtime polymorphism?, Damage: 5
+[2025-05-30 09:58:40] Proceeded to level 1
+[2025-05-30 09:58:40] Proceeded to level 1
+[2025-05-30 09:58:41] Proceeded to level 1

@@ -1,0 +1,30 @@
+SL|Variables store data in memory
+SL|Loops repeat code until a condition
+SL|Methods group reusable code
+SL|Arrays store multiple values
+SL|Debugging finds and fixes errors
+SL|Strings hold text data
+SL|Compile-time polymorphism is method overloading; runtime polymorphism is method overriding
+SL|ArrayList is backed by a dynamic array, while LinkedList is a doubly-linked list; ArrayList is better for random access
+SL|Compiling converts code to executable
+SL|Booleans represent true or false
+TA|OOP organizes code with objects
+TA|Inheritance reuses class properties
+TA|Polymorphism enables flexible code
+TA|Encapsulation hides data details
+TA|Constructors initialize objects
+TA|Static methods belong to classes
+TA|Interfaces define method contracts
+TA|Stacks follow last-in, first-out
+TA|The finally block always executes after try/catch, even if there is a return or an exception is thrown
+TA|Exceptions handle runtime errors
+PROF|Singleton ensures one instance
+PROF|Java interns strings in a pool. Identical string literals reference the same object to save memory and improve performance
+PROF|HashMap handles collisions using chaining, where multiple entries can go in one bucket
+PROF|Dynamic programming optimizes code
+PROF|Hash tables provide fast lookup
+PROF|TCP is reliable, UDP is faster
+PROF|Deadlocks halt thread execution
+PROF|Big-O measures algorithm efficiency
+PROF|Lambdas simplify functional code
+PROF|Internally, the JVM uses virtual method tables (v-tables) for method dispatch during runtime polymorphism
