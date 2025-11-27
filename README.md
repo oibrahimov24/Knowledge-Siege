@@ -13,7 +13,6 @@ This project was developed as part of **COMP 132: Advanced Programming**, demons
 ### ✔ Login & User Management
 - Register new users  
 - Login with existing accounts  
-- Special admin login (`superadmin / SuperAdmin132`)  
 - Users select a profile image for gameplay  
 
 ---
@@ -22,7 +21,6 @@ This project was developed as part of **COMP 132: Advanced Programming**, demons
 
 ### Player Controls
 - Move **left** and **right** using keyboard arrows  
-- Press **H** to hide the player  
 
 ### Enemies (Knowledge Keepers)
 - **Section Leaders (SLs)**  
@@ -53,4 +51,85 @@ This project was developed as part of **COMP 132: Advanced Programming**, demons
 
 ## 📁 File Handling
 The game loads educational content from two files:
+- questions.txt
+- info.txt
+
+
+Each file contains **30+ entries**, split by difficulty:
+- 10 for SLs  
+- 10 for TAs  
+- 10 for Professors  
+
+Missing files trigger custom exceptions + GUI warnings.
+
+---
+
+## 🧠 Object-Oriented Structure
+The project uses:
+- **Inheritance** (SL → TA → Professor hierarchy)  
+- **Abstract classes & interfaces**  
+- **Java Collections**  
+- **Encapsulation of drawing logic**  
+- **Separation of logic and GUI (MVC style)**  
+
+---
+
+## 📊 Score System
+- Collect 💡 *information* to earn points  
+- Take damage from ❓ *questions*  
+- Scoreboard:
+  - Sorted by score (descending)  
+  - Same user → Game1, Game2, Game3…  
+
+---
+
+## 📝 Logging
+A detailed log file is generated containing:
+- Game start  
+- Collisions (info collected or damage taken)  
+- Score updates  
+- “User is unable to move.” events  
+- Level transitions  
+- Game Over / Victory  
+
+---
+
+## 🖥 GUI (Java Swing)
+The GUI is created using:
+- `JPanel`
+- `JButton`
+- `JLabel`
+- `JComboBox`
+- `JOptionPane`
+- `javax.swing.Timer` for:
+  - Movement
+  - Collision checking
+  - Animation
+
+Custom images are used for characters.
+
+---
+
+## 🧪 Demo Requirements (All Supported)
+
+### Initial Setup
+- New user registration
+- Login system  
+- GUI scoreboard  
+
+### Gameplay
+- Player movement  
+- Keeper behaviors (SL, TA, Professor)  
+- ShotBox attacks and text display  
+- Score/health updates  
+- Level transitions  
+- Game Over / Victory screens  
+
+### Error Handling
+- Detects missing / empty content files  
+- Prevents out-of-bound movement  
+- Shows meaningful GUI errors  
+
+---
+
 
